@@ -1,0 +1,1 @@
+This is a repository on helpful notes and resources I found upon learning Tower via the documentation (and likely other secondary and tertiary resources). I will fill this more baadaye
