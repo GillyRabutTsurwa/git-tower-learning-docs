@@ -1,1 +1,1 @@
-This is a repository on helpful notes and resources I found upon learning Tower via the documentation (and likely other secondary and tertiary resources). I will fill this more baadaye
+This is the introduction branch. The things that I will learn will be put here. Or not, Je sais pas encore la structure.
